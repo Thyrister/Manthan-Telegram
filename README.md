@@ -1,4 +1,4 @@
-#TEAM - GOAL DIGGER
+# TEAM - GOAL DIGGER
 
 # Telegram Web App
 
